@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\bin\Debug\rastgele-isim-orn.exe.config
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\bin\Debug\rastgele-isim-orn.exe
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\bin\Debug\rastgele-isim-orn.pdb
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele_isim_orn.Form1.resources
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele_isim_orn.Properties.Resources.resources
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.exe
+C:\Users\User\source\repos\rastgele-isim-orn\rastgele-isim-orn\obj\Debug\rastgele-isim-orn.pdb
